@@ -1,0 +1,14 @@
+C:\Users\sdbru\Coding\prisonEscape\bin\Debug\net8.0\prisonEscape.exe
+C:\Users\sdbru\Coding\prisonEscape\bin\Debug\net8.0\prisonEscape.deps.json
+C:\Users\sdbru\Coding\prisonEscape\bin\Debug\net8.0\prisonEscape.runtimeconfig.json
+C:\Users\sdbru\Coding\prisonEscape\bin\Debug\net8.0\prisonEscape.dll
+C:\Users\sdbru\Coding\prisonEscape\bin\Debug\net8.0\prisonEscape.pdb
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\prisonEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\prisonEscape.AssemblyInfoInputs.cache
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\prisonEscape.AssemblyInfo.cs
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\prisonEscape.csproj.CoreCompileInputs.cache
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\prisonEscape.dll
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\refint\prisonEscape.dll
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\prisonEscape.pdb
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\prisonEscape.genruntimeconfig.cache
+C:\Users\sdbru\Coding\prisonEscape\obj\Debug\net8.0\ref\prisonEscape.dll
